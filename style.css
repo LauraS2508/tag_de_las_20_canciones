@@ -1,0 +1,11 @@
+.titulo1{
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+}
+.titulo2{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.5rem;
+}

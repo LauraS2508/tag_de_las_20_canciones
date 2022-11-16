@@ -9,6 +9,11 @@
     font-family: 'Shadows Into Light', cursive;
     font-size: 1.5rem;
 }
-.lo1{
-    
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: blueviolet;
+    color: white;
 }
